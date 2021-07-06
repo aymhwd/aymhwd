@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aymhwd
 - 👀 I’m interested in SoC development and prototyping
-- 🌱 I’m currently learning Embedded C development
+- 🌱 I’m currently learning System Verilog and UVM
 - 💞️ I’m looking to collaborate on projects invloving RTL and C coding
 - 📫 How to reach me: send an email to aym.mohamed@hotmail.com
 
